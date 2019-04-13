@@ -8,5 +8,6 @@ The goal is to provide data driven reserch for Mobile App Developers to show whe
 Open the ProfitableAppProfiles files directly in Github to view the analysis. 
 
 # Credit
-Datasets came directly from DataQuest.io
+Datasets came directly from DataQuest.io.
+
 Please go to https://www.dataquest.io/m/350-guided-project-profitable-app-profiles-for-the-app-store-and-google-play-markets/ for further details.
